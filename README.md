@@ -16,5 +16,11 @@ underside of the board to sit clear.
 1. Tape the stencil to the jig platform, apply the solder paste, and repeat as
    required.
 
+<img src="./doc/photo-2.jpg" width=700/>
+
+<img src="./doc/photo-1.jpg" width=700/>
+
+<img src="./doc/photo-3.jpg" width=700/>
+
 Pre-generated STL files are available in the `stl` folder, if you don't have
 OpenSCAD available.
